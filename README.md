@@ -7,3 +7,5 @@
 3. Javascript
 4. API testing
 5. Final demo
+
+![Software development life cycle](https://github.com/savkaoleg/ta_camp/blob/add_cycle_image/static/img/cycle.png?raw=true)
