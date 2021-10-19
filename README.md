@@ -1,4 +1,4 @@
-# ta_camp  
+# Test Automation Camp 2021
 
 ## Structure  
 
