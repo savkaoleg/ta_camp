@@ -1,0 +1,20 @@
+{
+  "name": "ta_camp",
+  "version": "1.0.0",
+  "description": "1. Testing theory  \r 2. Source contol  \r 3. Javascript\r 4. API testing\r 5. Final demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savkaoleg/ta_camp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savkaoleg/ta_camp/issues"
+  },
+  "homepage": "https://github.com/savkaoleg/ta_camp#readme",
+  "type": "module"
+}
