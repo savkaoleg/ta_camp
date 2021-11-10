@@ -16,5 +16,8 @@
     "url": "https://github.com/savkaoleg/ta_camp/issues"
   },
   "homepage": "https://github.com/savkaoleg/ta_camp#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "randomstring": "^1.2.1"
+  }
 }
